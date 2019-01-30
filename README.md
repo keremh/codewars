@@ -2,6 +2,5 @@
 
 Solutions of CodeWars Problems 
 
-Test.
 
 
